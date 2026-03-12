@@ -1,1 +1,1 @@
-# behavior-path-tools
+# behaviorpath-tools
